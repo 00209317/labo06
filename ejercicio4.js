@@ -19,3 +19,4 @@ function sumitapedro(lista) {
             console.log(sum);
         }
     }
+}
